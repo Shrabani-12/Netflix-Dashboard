@@ -26,3 +26,5 @@ Year-wise Content Growth,
  **Source of Data**: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 **Screenshot of Dashboard**: https://github.com/Shrabani-12/Netflix-Dashboard/blob/main/Netflix%20Analaysis.png
+<img width="1206" height="676" alt="Netflix Analaysis" src="https://github.com/user-attachments/assets/58852ddc-3281-49ed-928c-d2d63bee91b1" />
+
